@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+.container{
+    padding: 150px;
+    background: #7688f3;
+    font-size: 40px;
+    width: 780px;
+    border-radius: 16px;
+    color: #fff;
+    text-align: center;
+}
+.clock{
+    margin-bottom: 100px;
+    margin-right: 50px;
+}
+#timer{
+    font-size: 50px;
+}
+.timer-clock{
+    width: 400px;
+}
+.btns{
+    text-align: center;
+}
+.btn{
+    padding: 20px 90px;
+    text-align: center;
+    border-radius: 24px 36px;
+    border: none;
+    font-size: 28px;
+}
