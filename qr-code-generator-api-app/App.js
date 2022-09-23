@@ -1,7 +1,8 @@
 const submitBtn = document.getElementById("submit");
 const input = document.getElementById("input");
 const qrImg = document.getElementById("img");
-const apiUrl ="http://api.qrserver.com/v1/create-qr-code/?size=200x200&data=";
+const apiUrl ="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=";
+
 
 // encodeURIComponent()
 
